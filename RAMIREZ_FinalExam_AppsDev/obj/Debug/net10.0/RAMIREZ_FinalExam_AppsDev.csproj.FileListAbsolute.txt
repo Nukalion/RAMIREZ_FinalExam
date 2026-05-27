@@ -1,0 +1,14 @@
+C:\Users\LJ\source\repos\RAMIREZ_FinalExam_AppsDev\bin\Debug\net10.0\RAMIREZ_FinalExam_AppsDev.exe
+C:\Users\LJ\source\repos\RAMIREZ_FinalExam_AppsDev\bin\Debug\net10.0\RAMIREZ_FinalExam_AppsDev.deps.json
+C:\Users\LJ\source\repos\RAMIREZ_FinalExam_AppsDev\bin\Debug\net10.0\RAMIREZ_FinalExam_AppsDev.runtimeconfig.json
+C:\Users\LJ\source\repos\RAMIREZ_FinalExam_AppsDev\bin\Debug\net10.0\RAMIREZ_FinalExam_AppsDev.dll
+C:\Users\LJ\source\repos\RAMIREZ_FinalExam_AppsDev\bin\Debug\net10.0\RAMIREZ_FinalExam_AppsDev.pdb
+C:\Users\LJ\source\repos\RAMIREZ_FinalExam_AppsDev\obj\Debug\net10.0\RAMIREZ_FinalExam_AppsDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LJ\source\repos\RAMIREZ_FinalExam_AppsDev\obj\Debug\net10.0\RAMIREZ_FinalExam_AppsDev.AssemblyInfoInputs.cache
+C:\Users\LJ\source\repos\RAMIREZ_FinalExam_AppsDev\obj\Debug\net10.0\RAMIREZ_FinalExam_AppsDev.AssemblyInfo.cs
+C:\Users\LJ\source\repos\RAMIREZ_FinalExam_AppsDev\obj\Debug\net10.0\RAMIREZ_FinalExam_AppsDev.csproj.CoreCompileInputs.cache
+C:\Users\LJ\source\repos\RAMIREZ_FinalExam_AppsDev\obj\Debug\net10.0\RAMIREZ_FinalExam_AppsDev.dll
+C:\Users\LJ\source\repos\RAMIREZ_FinalExam_AppsDev\obj\Debug\net10.0\refint\RAMIREZ_FinalExam_AppsDev.dll
+C:\Users\LJ\source\repos\RAMIREZ_FinalExam_AppsDev\obj\Debug\net10.0\RAMIREZ_FinalExam_AppsDev.pdb
+C:\Users\LJ\source\repos\RAMIREZ_FinalExam_AppsDev\obj\Debug\net10.0\RAMIREZ_FinalExam_AppsDev.genruntimeconfig.cache
+C:\Users\LJ\source\repos\RAMIREZ_FinalExam_AppsDev\obj\Debug\net10.0\ref\RAMIREZ_FinalExam_AppsDev.dll
